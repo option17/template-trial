@@ -34,10 +34,7 @@ img {
 
 }
 #header_img2{
-    
     justify-self: end;
-    
-    
 
 }
 #Desktop_option{
@@ -51,8 +48,10 @@ img {
     display: grid;
 
 }
-section{background-color: rgb(255, 72, 0);
-    margin: -15px 120px -15px 0px;
+section{
+    background-color: rgb(255, 72, 0);
+    transform: translateY(-100px);
+    
 }
 .events{
     display: grid;
